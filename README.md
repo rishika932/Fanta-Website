@@ -16,7 +16,7 @@ A vibrant and interactive Fanta-themed animated website built using HTML, CSS, J
 
 
 
-🎨 Live Demo: [Add your link here]
+🎨 Live Demo: [https://fanta-by-rishika-kesharwani.netlify.app/]
 
 📌 Tech Stack: HTML | CSS | JavaScript| GSAP
 
